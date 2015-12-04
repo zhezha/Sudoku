@@ -1,5 +1,5 @@
 # Sudoku
 
-Sudoku solver using [Gecode library](www.gecode.org).
+Sudoku solver using [Gecode library](http://www.gecode.org).
 
 
